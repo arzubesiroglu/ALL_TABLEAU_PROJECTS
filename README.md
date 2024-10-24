@@ -1,3 +1,5 @@
+![Tableau Logo](https://www.tableau.com/sites/default/files/pages/tableau_logo.png)
+
 # ALL_TABLEAU_PROJECTS
 
 📁 **Welcome to the Tableau Projects Repository!** 🔍  
